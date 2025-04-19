@@ -20,7 +20,7 @@ This project is a serverless contact form built using **AWS Lambda**, **API Gate
 ### DynamoDB
 
 - A table (e.g., `aruntable`) stores each contact form submission
-- Dynamically adds user entries with fields like `fname`, `lname`, `email`, `message`, etc.
+- Dynamically adds user entries with fields like `fname`, `lname`, `email`,'phone number','subject','contact method','country',`message`, etc.
 
 ---
 
